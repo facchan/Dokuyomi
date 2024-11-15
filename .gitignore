@@ -1,0 +1,63 @@
+# React Native
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build folders
+android/build/
+ios/Pods/
+ios/build/
+
+# Xcode specific files
+ios/*.xcworkspace
+ios/Pods/
+ios/xcuserdata/
+ios/*.xcodeproj/project.xcworkspace/
+ios/DerivedData/
+
+# React Native Debugging
+react-native-debugger/
+*.jks
+
+# Expo
+.expo/
+.expo-shared/
+
+# Android Studio
+.idea/
+*.iml
+
+# Temporary files
+.vscode/
+
+# Package lock files (Optional: if you are using yarn, you can ignore package-lock.json)
+# package-lock.json
+
+# Jest cache
+jest/cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# Firebase
+firebase.json
+
+# Metro bundler
+/metro-cache/
+
+# Coverage directory used by tools like istanbul or nyc
+coverage/
+
+# Miscellaneous
+*.log
+*.lock
+
+# JetBrains project files
+.idea/
+
+# Bundled libraries
+node_modules/
